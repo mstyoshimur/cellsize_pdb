@@ -13,25 +13,15 @@ Run program
 The example of running on Mac is shown below.
 -----------------------------------
 yoshimurMBk-Air:testpy yoshimur$ ls
-
   cellsize_pdb.py	sorteddb.gz
-
 yoshimurMBk-Air:testpy yoshimur$ chmod u+x cellsize_pdb.py 
-
 yoshimurMBk-Air:testpy yoshimur$ ./cellsize_pdb.py 
-
 reading data....
-
 a = ?  135 
-
 nearest cell size is  
-
 CRYST1  135.000   37.100   38.500  90.00  92.60  90.00 C 1 2 1       4          1jlm I-DOMAIN FROM INTEGRIN CR3, MN2+ BOUND
-
 b = ?  261 
-
 nearest cell size from db 
-
 CRYST1  135.415  260.694  148.691  90.00 100.94  90.00 P 1 21 1     28          1mnf DOMAIN MOTIONS IN GROEL UPON BINDING OF AN OLIGOPEPTIDE 
 
 c = ?  275 
